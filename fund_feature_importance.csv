@@ -7,11 +7,11 @@ Population Density,0.0023182297154899388
 Male Percentage,0.00043554618897081456
 Median Income,0.002163681067790635
 Median Age,0.0008710923779416512
-White Percentage,0.0027256761503336334
+White %,0.0027256761503336334
 Average Years of Education,-0.0008991921320689045
 Unemployment Rate,0.0005619950825429765
 Housing Density,0.004481910783280618
-Percentage of Housing Units Occupied by Owners,-0.0005338953284159231
-Percentage of Newly Moved Households,0.0007165437302423028
-Percentage of Newly Built Housing Units,8.429926238140428e-05
-Laws Against Broadband Expansion,0.003976115208991859
+% Owner Occupied Units,-0.0005338953284159231
+% Newly Moved Households,0.0007165437302423028
+% Newly Built Housing Units,8.429926238140428e-05
+Law Against Expansion,0.003976115208991859
